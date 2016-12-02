@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="7.293in" height="7.31772in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 7293 7318"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil5 {fill:none}
+    .fil7 {fill:#00AFEF}
+    .fil2 {fill:#3E3E3E}
+    .fil1 {fill:#020202}
+    .fil4 {fill:#252F38}
+    .fil8 {fill:#3B4A59}
+    .fil9 {fill:#E45544}
+    .fil0 {fill:#F1C40E}
+    .fil3 {fill:#F2DFD5}
+    .fil6 {fill:white}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M1614 2305l4064 0c87,0 159,72 159,159l0 2655c0,87 -72,159 -159,159l-4064 0c-87,0 -159,-72 -159,-159l0 -2655c0,-87 72,-159 159,-159z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0" cx="3647" cy="3659" r="3611"/>
+  <g id="_458680856">
+   <path class="fil1" d="M1851 2039l495 0c58,0 106,48 106,106l0 237c0,58 -48,106 -106,106l-495 0c-58,0 -106,-48 -106,-106l0 -237c0,-58 48,-106 106,-106z"/>
+   <path class="fil2" d="M1614 2305l4064 0c87,0 159,72 159,159l0 2655c0,87 -72,159 -159,159l-4064 0c-87,0 -159,-72 -159,-159l0 -2655c0,-87 72,-159 159,-159z"/>
+   <g style="clip-path:url(#id0)">
+    <g>
+     <path id="1" class="fil3" d="M2632 2055l0 0c83,0 151,68 151,151l0 3098c0,83 -68,151 -151,151l0 0c-83,0 -151,-68 -151,-151l0 -3098c0,-83 68,-151 151,-151z"/>
+     <path class="fil4" d="M1073 2084l1334 0c58,0 106,48 106,106l0 3188c0,58 -48,106 -106,106l-1334 0c-58,0 -106,-48 -106,-106l0 -3188c0,-58 48,-106 106,-106z"/>
+    </g>
+   </g>
+   <path class="fil5" d="M1614 2305l4064 0c87,0 159,72 159,159l0 2655c0,87 -72,159 -159,159l-4064 0c-87,0 -159,-72 -159,-159l0 -2655c0,-87 72,-159 159,-159z"/>
+   <circle class="fil6" cx="4291" cy="3792" r="1229"/>
+   <circle class="fil7" cx="4291" cy="3792" r="994"/>
+   <circle class="fil0" cx="3165" cy="2621" r="164"/>
+   <path class="fil8" d="M2042 2629l112 0c58,0 106,48 106,106l0 664c0,58 -48,106 -106,106l-112 0c-58,0 -106,-48 -106,-106l0 -664c0,-58 48,-106 106,-106z"/>
+   <polygon class="fil9" points="5234,2457 5682,2457 5682,2782 5234,2782 "/>
+  </g>
+ </g>
+</svg>
